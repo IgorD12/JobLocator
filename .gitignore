@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+
+sentJobs.json
+prace.html
+job.html
+
+*.user
+*.suo
+
+Copilot/
+FileContextIndex/
+ProjectEvaluation/
